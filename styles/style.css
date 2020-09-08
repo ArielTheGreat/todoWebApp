@@ -1,0 +1,16 @@
+#input{
+    border: 5px solid #000000;
+    border-radius: 30px;
+    text-align:center;
+    width: 40%;
+    margin:auto;
+    margin-top: 3em;
+    padding-bottom: 3em;
+}
+#output{
+    width: 20%;
+    margin: auto;
+}
+ul > li{
+    font-size: 2em;
+}
